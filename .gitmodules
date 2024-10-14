@@ -1,0 +1,6 @@
+[submodule "plugged/vim-airline"]
+	path = plugged/vim-airline
+	url = ssh://git@github.com/vim-airline/vim-airline.git
+[submodule "plugged/vim-surround"]
+	path = plugged/vim-surround
+	url = ssh://git@github.com/tpope/vim-surround.git
