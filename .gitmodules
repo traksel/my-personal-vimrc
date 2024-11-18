@@ -4,3 +4,6 @@
 [submodule "plugged/vim-surround"]
 	path = plugged/vim-surround
 	url = ssh://git@github.com/tpope/vim-surround.git
+[submodule "plugged/editorconfig-vim"]
+	path = plugged/editorconfig-vim
+	url = ssh://git@github.com/editorconfig/editorconfig-vim.git
